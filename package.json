@@ -1,0 +1,22 @@
+{
+  "name": "jest-testing-practice",
+  "version": "1.0.0",
+  "description": "Learning how to test React with Jest https://facebook.github.io/jest/docs/en/getting-started.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivjisakina/jest-testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivjisakina/jest-testing-practice/issues"
+  },
+  "homepage": "https://github.com/shivjisakina/jest-testing-practice#readme",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}
